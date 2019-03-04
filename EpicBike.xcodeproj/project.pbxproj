@@ -7,14 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18044E0A221597850071AF6C /* SwitchLocationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18044E09221597850071AF6C /* SwitchLocationTableViewCell.swift */; };
+		18044E0C22159BB40071AF6C /* SwitchLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18044E0B22159BB40071AF6C /* SwitchLocationViewController.swift */; };
+		181B2ACE221547BD00B488D9 /* FaqsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181B2ACD221547BD00B488D9 /* FaqsViewController.swift */; };
+		181B2AD022154B2C00B488D9 /* ContactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181B2ACF22154B2B00B488D9 /* ContactViewController.swift */; };
 		1861421F2208340D00580E85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1861421E2208340D00580E85 /* AppDelegate.swift */; };
 		186142212208340D00580E85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186142202208340D00580E85 /* ViewController.swift */; };
 		186142242208340D00580E85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 186142222208340D00580E85 /* Main.storyboard */; };
 		186142262208341B00580E85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 186142252208341B00580E85 /* Assets.xcassets */; };
 		186142292208341B00580E85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 186142272208341B00580E85 /* LaunchScreen.storyboard */; };
+		1874BB26221AEEBB0059DC20 /* BikesPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1874BB25221AEEBA0059DC20 /* BikesPopupViewController.swift */; };
+		1874BB28221AF0120059DC20 /* BikePopupTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1874BB27221AF0120059DC20 /* BikePopupTableViewCell.swift */; };
+		18AF718E220D874C00F2172F /* TextFieldWithImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AF718D220D874C00F2172F /* TextFieldWithImage.swift */; };
+		18BE1951221D70F2000838E6 /* BikeIdScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BE1950221D70F1000838E6 /* BikeIdScannerViewController.swift */; };
+		18BE1953221D958C000838E6 /* ConfirmBikeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BE1952221D958C000838E6 /* ConfirmBikeViewController.swift */; };
+		18C034F322141EC9002279D8 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C034F222141EC9002279D8 /* ProfileViewController.swift */; };
+		18C034F5221430A2002279D8 /* CoinsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C034F4221430A1002279D8 /* CoinsViewController.swift */; };
+		18C034F72214382A002279D8 /* TripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C034F62214382A002279D8 /* TripViewController.swift */; };
+		18C034F922143D59002279D8 /* TripTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C034F822143D59002279D8 /* TripTableViewCell.swift */; };
+		18E0864E220988F600691A86 /* OTPViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E0864D220988F600691A86 /* OTPViewController.swift */; };
+		18E086512209921100691A86 /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E086502209921100691A86 /* SplashViewController.swift */; };
+		18E086532209BBD500691A86 /* DashboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E086522209BBD500691A86 /* DashboardViewController.swift */; };
+		18E086562209C38D00691A86 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E086552209C38D00691A86 /* BaseViewController.swift */; };
+		18E086582209C3B700691A86 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E086572209C3B600691A86 /* HomeVC.swift */; };
+		18E0865B2209C3BF00691A86 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E086592209C3BF00691A86 /* MenuViewController.swift */; };
+		18E0865C2209C3BF00691A86 /* PlayVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E0865A2209C3BF00691A86 /* PlayVC.swift */; };
+		18EAE9AD2225490900C4A100 /* TripStartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAE9AC2225490900C4A100 /* TripStartViewController.swift */; };
+		18EF01B6220C2FC700EC2F4B /* Reach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EF01B5220C2FC700EC2F4B /* Reach.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18044E09221597850071AF6C /* SwitchLocationTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchLocationTableViewCell.swift; sourceTree = "<group>"; };
+		18044E0B22159BB40071AF6C /* SwitchLocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchLocationViewController.swift; sourceTree = "<group>"; };
+		181B2ACD221547BD00B488D9 /* FaqsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaqsViewController.swift; sourceTree = "<group>"; };
+		181B2ACF22154B2B00B488D9 /* ContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 		1861421B2208340C00580E85 /* EpicBike.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EpicBike.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1861421E2208340D00580E85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		186142202208340D00580E85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +48,25 @@
 		186142252208341B00580E85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		186142282208341B00580E85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1861422A2208341B00580E85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1874BB25221AEEBA0059DC20 /* BikesPopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikesPopupViewController.swift; sourceTree = "<group>"; };
+		1874BB27221AF0120059DC20 /* BikePopupTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikePopupTableViewCell.swift; sourceTree = "<group>"; };
+		18AF718D220D874C00F2172F /* TextFieldWithImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldWithImage.swift; sourceTree = "<group>"; };
+		18BE1950221D70F1000838E6 /* BikeIdScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BikeIdScannerViewController.swift; sourceTree = "<group>"; };
+		18BE1952221D958C000838E6 /* ConfirmBikeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmBikeViewController.swift; sourceTree = "<group>"; };
+		18C034F222141EC9002279D8 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		18C034F4221430A1002279D8 /* CoinsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinsViewController.swift; sourceTree = "<group>"; };
+		18C034F62214382A002279D8 /* TripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripViewController.swift; sourceTree = "<group>"; };
+		18C034F822143D59002279D8 /* TripTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripTableViewCell.swift; sourceTree = "<group>"; };
+		18E0864D220988F600691A86 /* OTPViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTPViewController.swift; sourceTree = "<group>"; };
+		18E086502209921100691A86 /* SplashViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
+		18E086522209BBD500691A86 /* DashboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardViewController.swift; sourceTree = "<group>"; };
+		18E086552209C38D00691A86 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		18E086572209C3B600691A86 /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		18E086592209C3BF00691A86 /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		18E0865A2209C3BF00691A86 /* PlayVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayVC.swift; sourceTree = "<group>"; };
+		18EAE9AC2225490900C4A100 /* TripStartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripStartViewController.swift; sourceTree = "<group>"; };
+		18EF01B5220C2FC700EC2F4B /* Reach.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reach.swift; sourceTree = "<group>"; };
+		18EF01B7220C2FDD00EC2F4B /* EpicBike.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EpicBike.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +99,61 @@
 		1861421D2208340C00580E85 /* EpicBike */ = {
 			isa = PBXGroup;
 			children = (
+				18EF01B7220C2FDD00EC2F4B /* EpicBike.entitlements */,
+				18EF01B8220C330800EC2F4B /* Trips */,
+				18E086542209C14500691A86 /* SlideMenu */,
+				18E0864F22098A0800691A86 /* Splash */,
 				1861421E2208340D00580E85 /* AppDelegate.swift */,
-				186142202208340D00580E85 /* ViewController.swift */,
+				18EF01B5220C2FC700EC2F4B /* Reach.swift */,
 				186142222208340D00580E85 /* Main.storyboard */,
 				186142252208341B00580E85 /* Assets.xcassets */,
 				186142272208341B00580E85 /* LaunchScreen.storyboard */,
 				1861422A2208341B00580E85 /* Info.plist */,
 			);
 			path = EpicBike;
+			sourceTree = "<group>";
+		};
+		18E0864F22098A0800691A86 /* Splash */ = {
+			isa = PBXGroup;
+			children = (
+				186142202208340D00580E85 /* ViewController.swift */,
+				18E0864D220988F600691A86 /* OTPViewController.swift */,
+				18E086502209921100691A86 /* SplashViewController.swift */,
+				18E086522209BBD500691A86 /* DashboardViewController.swift */,
+				18AF718D220D874C00F2172F /* TextFieldWithImage.swift */,
+			);
+			path = Splash;
+			sourceTree = "<group>";
+		};
+		18E086542209C14500691A86 /* SlideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				18E086552209C38D00691A86 /* BaseViewController.swift */,
+				18E086572209C3B600691A86 /* HomeVC.swift */,
+				18E086592209C3BF00691A86 /* MenuViewController.swift */,
+				18E0865A2209C3BF00691A86 /* PlayVC.swift */,
+				18C034F222141EC9002279D8 /* ProfileViewController.swift */,
+				18C034F4221430A1002279D8 /* CoinsViewController.swift */,
+				18C034F62214382A002279D8 /* TripViewController.swift */,
+				18C034F822143D59002279D8 /* TripTableViewCell.swift */,
+				181B2ACD221547BD00B488D9 /* FaqsViewController.swift */,
+				181B2ACF22154B2B00B488D9 /* ContactViewController.swift */,
+				18044E09221597850071AF6C /* SwitchLocationTableViewCell.swift */,
+				18044E0B22159BB40071AF6C /* SwitchLocationViewController.swift */,
+				1874BB25221AEEBA0059DC20 /* BikesPopupViewController.swift */,
+				1874BB27221AF0120059DC20 /* BikePopupTableViewCell.swift */,
+			);
+			path = SlideMenu;
+			sourceTree = "<group>";
+		};
+		18EF01B8220C330800EC2F4B /* Trips */ = {
+			isa = PBXGroup;
+			children = (
+				18BE1950221D70F1000838E6 /* BikeIdScannerViewController.swift */,
+				18BE1952221D958C000838E6 /* ConfirmBikeViewController.swift */,
+				18EAE9AC2225490900C4A100 /* TripStartViewController.swift */,
+			);
+			path = Trips;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +188,14 @@
 				TargetAttributes = {
 					1861421A2208340C00580E85 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.AccessWiFi = {
+								enabled = 1;
+							};
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -135,8 +235,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18E0864E220988F600691A86 /* OTPViewController.swift in Sources */,
+				18E086582209C3B700691A86 /* HomeVC.swift in Sources */,
+				1874BB26221AEEBB0059DC20 /* BikesPopupViewController.swift in Sources */,
 				186142212208340D00580E85 /* ViewController.swift in Sources */,
+				18E086532209BBD500691A86 /* DashboardViewController.swift in Sources */,
+				18C034F922143D59002279D8 /* TripTableViewCell.swift in Sources */,
+				181B2AD022154B2C00B488D9 /* ContactViewController.swift in Sources */,
 				1861421F2208340D00580E85 /* AppDelegate.swift in Sources */,
+				18E086512209921100691A86 /* SplashViewController.swift in Sources */,
+				181B2ACE221547BD00B488D9 /* FaqsViewController.swift in Sources */,
+				18C034F72214382A002279D8 /* TripViewController.swift in Sources */,
+				18E086562209C38D00691A86 /* BaseViewController.swift in Sources */,
+				18BE1953221D958C000838E6 /* ConfirmBikeViewController.swift in Sources */,
+				1874BB28221AF0120059DC20 /* BikePopupTableViewCell.swift in Sources */,
+				18EF01B6220C2FC700EC2F4B /* Reach.swift in Sources */,
+				18E0865B2209C3BF00691A86 /* MenuViewController.swift in Sources */,
+				18044E0A221597850071AF6C /* SwitchLocationTableViewCell.swift in Sources */,
+				18044E0C22159BB40071AF6C /* SwitchLocationViewController.swift in Sources */,
+				18C034F322141EC9002279D8 /* ProfileViewController.swift in Sources */,
+				18C034F5221430A2002279D8 /* CoinsViewController.swift in Sources */,
+				18EAE9AD2225490900C4A100 /* TripStartViewController.swift in Sources */,
+				18BE1951221D70F2000838E6 /* BikeIdScannerViewController.swift in Sources */,
+				18E0865C2209C3BF00691A86 /* PlayVC.swift in Sources */,
+				18AF718E220D874C00F2172F /* TextFieldWithImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +404,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = EpicBike/EpicBike.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B66WYGY665;
 				INFOPLIST_FILE = EpicBike/Info.plist;
@@ -291,7 +414,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mahesh.EpicBike;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -300,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = EpicBike/EpicBike.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = B66WYGY665;
 				INFOPLIST_FILE = EpicBike/Info.plist;
@@ -309,7 +433,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mahesh.EpicBike;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
